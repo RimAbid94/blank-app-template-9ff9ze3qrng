@@ -1,4 +1,4 @@
 streamlit
-panel as pn
+panel
 hvplot.pandas
 holoviews
