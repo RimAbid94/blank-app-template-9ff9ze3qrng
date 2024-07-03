@@ -1,4 +1,7 @@
 import streamlit as st
+import panel as pn
+import hvplot.pandas
+import holoviews as hv
 
 st.title("🎈 My new app")
 st.write(
